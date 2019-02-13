@@ -1,0 +1,4 @@
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.0\Eksamensopgave2f_Tests.csprojAssemblyReference.cache
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.0\Eksamensopgave2f_Tests.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.0\Eksamensopgave2f_Tests.AssemblyInfoInputs.cache
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.0\Eksamensopgave2f_Tests.AssemblyInfo.cs

@@ -1,0 +1,42 @@
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.deps.json
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.runtimeconfig.json
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.runtimeconfig.dev.json
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.dll
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.csprojAssemblyReference.cache
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.AssemblyInfoInputs.cache
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.AssemblyInfo.cs
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.pdb
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.dll
+C:\Users\MUSTAFAR\Documents\Visual Studio 2017\Eksamensopgave2f\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.pdb
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.deps.json
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.runtimeconfig.json
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.runtimeconfig.dev.json
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.dll
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.pdb
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.csprojAssemblyReference.cache
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.AssemblyInfoInputs.cache
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.AssemblyInfo.cs
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.dll
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.pdb
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Solution\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Solution\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Solution\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Solution\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.deps.json
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Solution\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.runtimeconfig.json
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Solution\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.runtimeconfig.dev.json
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Solution\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.dll
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Solution\Eksamensopgave2f_Tests\bin\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.pdb
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Solution\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.csprojAssemblyReference.cache
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Solution\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Solution\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.AssemblyInfoInputs.cache
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Solution\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.AssemblyInfo.cs
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Solution\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.dll
+C:\Users\MUSTAFAR\Desktop\Kristoffer Surrow - Eksamensopgave 2\Solution\Eksamensopgave2f_Tests\obj\Debug\netcoreapp2.1\Eksamensopgave2f_Tests.pdb
