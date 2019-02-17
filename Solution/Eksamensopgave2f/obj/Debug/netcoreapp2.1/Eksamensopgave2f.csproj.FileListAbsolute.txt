@@ -54,3 +54,31 @@ C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Webprogrammerin
 C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Webprogrammering Server-side Eksamensopgave 2\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.RazorTargetAssemblyInfo.cache
 C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Webprogrammering Server-side Eksamensopgave 2\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.dll
 C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Kristoffer Surrow - Webprogrammering Server-side Eksamensopgave 2\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.pdb
+C:\Users\Musti\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\bin\Debug\netcoreapp2.1\Eksamensopgave2f.deps.json
+C:\Users\Musti\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\bin\Debug\netcoreapp2.1\Eksamensopgave2f.runtimeconfig.json
+C:\Users\Musti\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\bin\Debug\netcoreapp2.1\Eksamensopgave2f.runtimeconfig.dev.json
+C:\Users\Musti\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\bin\Debug\netcoreapp2.1\Eksamensopgave2f.dll
+C:\Users\Musti\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\bin\Debug\netcoreapp2.1\Eksamensopgave2f.pdb
+C:\Users\Musti\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.csprojAssemblyReference.cache
+C:\Users\Musti\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.csproj.CoreCompileInputs.cache
+C:\Users\Musti\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.RazorAssemblyInfo.cache
+C:\Users\Musti\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.RazorAssemblyInfo.cs
+C:\Users\Musti\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.AssemblyInfoInputs.cache
+C:\Users\Musti\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.AssemblyInfo.cs
+C:\Users\Musti\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.RazorTargetAssemblyInfo.cache
+C:\Users\Musti\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.dll
+C:\Users\Musti\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.pdb
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\bin\Debug\netcoreapp2.1\Eksamensopgave2f.deps.json
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\bin\Debug\netcoreapp2.1\Eksamensopgave2f.runtimeconfig.json
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\bin\Debug\netcoreapp2.1\Eksamensopgave2f.runtimeconfig.dev.json
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\bin\Debug\netcoreapp2.1\Eksamensopgave2f.dll
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\bin\Debug\netcoreapp2.1\Eksamensopgave2f.pdb
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.csprojAssemblyReference.cache
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.RazorAssemblyInfo.cache
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.RazorAssemblyInfo.cs
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.AssemblyInfoInputs.cache
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.AssemblyInfo.cs
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.RazorTargetAssemblyInfo.cache
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.dll
+C:\Users\MUSTAFAR\OneDrive\Dokumenter\GitHub\Indkoebsliste\Solution\Eksamensopgave2f\obj\Debug\netcoreapp2.1\Eksamensopgave2f.pdb

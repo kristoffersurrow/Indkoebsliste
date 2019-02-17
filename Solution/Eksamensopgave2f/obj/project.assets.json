@@ -11614,11 +11614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MUSTAFAR\\OneDrive\\Dokumenter\\GitHub\\Kristoffer Surrow - Webprogrammering Server-side Eksamensopgave 2\\Solution\\Eksamensopgave2f\\Eksamensopgave2f.csproj",
+      "projectUniqueName": "C:\\Users\\MUSTAFAR\\OneDrive\\Dokumenter\\GitHub\\Indkoebsliste\\Solution\\Eksamensopgave2f\\Eksamensopgave2f.csproj",
       "projectName": "Eksamensopgave2f",
-      "projectPath": "C:\\Users\\MUSTAFAR\\OneDrive\\Dokumenter\\GitHub\\Kristoffer Surrow - Webprogrammering Server-side Eksamensopgave 2\\Solution\\Eksamensopgave2f\\Eksamensopgave2f.csproj",
+      "projectPath": "C:\\Users\\MUSTAFAR\\OneDrive\\Dokumenter\\GitHub\\Indkoebsliste\\Solution\\Eksamensopgave2f\\Eksamensopgave2f.csproj",
       "packagesPath": "C:\\Users\\MUSTAFAR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MUSTAFAR\\OneDrive\\Dokumenter\\GitHub\\Kristoffer Surrow - Webprogrammering Server-side Eksamensopgave 2\\Solution\\Eksamensopgave2f\\obj\\",
+      "outputPath": "C:\\Users\\MUSTAFAR\\OneDrive\\Dokumenter\\GitHub\\Indkoebsliste\\Solution\\Eksamensopgave2f\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

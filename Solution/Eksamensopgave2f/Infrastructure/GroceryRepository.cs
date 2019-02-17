@@ -23,12 +23,6 @@ namespace Eksamensopgave2f.Infrastructure
             return _context.GroceryTable.AsEnumerable();
         }
 
-        //public void Post([FromBody] GroceryTable value)
-        //{
-        //    _context.GroceryTable.Add(value);
-        //    _context.SaveChangesAsync();
-        //}
-
         //Asynkront kald
         public async Task Post([FromBody] GroceryTable value)
         {
