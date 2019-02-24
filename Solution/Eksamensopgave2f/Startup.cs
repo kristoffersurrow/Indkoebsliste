@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Eksamensopgave2f.Infrastructure;
 using Eksamensopgave2f.Interfaces;
 using Eksamensopgave2f.Models;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -30,6 +31,10 @@ namespace Eksamensopgave2f
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
+            //Authentication tilføjes
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                .AddCookie();
+
             //Her defineres CORS
             services.AddCors(options => options.AddPolicy("CorsPolicy",
                 builder => builder.AllowAnyOrigin()
@@ -53,6 +58,10 @@ namespace Eksamensopgave2f
 
             //Her bruges CORS
             app.UseCors("CorsPolicy");
+
+            //Her tilføjes Authentication i pipeline
+            //skal være lige før MVC
+            app.UseAuthentication();
 
             app.UseMvc();
         }
