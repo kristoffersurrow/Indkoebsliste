@@ -37,6 +37,8 @@ namespace Eksamensopgave2f.Controllers
 
             user.Counter++;
 
+            user.LastLogin = DateTime.Now;
+
             await _context.SaveChangesAsync();
 
             return Ok(user);

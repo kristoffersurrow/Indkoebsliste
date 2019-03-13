@@ -35,7 +35,13 @@ namespace Eksamensopgave2f.Models
             {
                 entity.Property(e => e.Id).ValueGeneratedNever();
 
+                entity.Property(e => e.LastLogin).HasColumnType("datetime");
+
                 entity.Property(e => e.Name)
+                    .IsRequired()
+                    .HasMaxLength(20);
+
+                entity.Property(e => e.Password)
                     .IsRequired()
                     .HasMaxLength(20);
             });

@@ -16,10 +16,11 @@ CREATE TABLE [dbo].[GroceryTable] (
 GO
 
 CREATE TABLE [dbo].[Users](
-	[Id] [int] NOT NULL,
+	[Id] [int] IDENTITY NOT NULL,
 	[Name] [nvarchar](20) NOT NULL,
 	[Password] [nvarchar](20) NOT NULL,
 	[Counter] [int] NOT NULL,
+	[LastLogin] [datetime] NULL,
 PRIMARY KEY CLUSTERED 
 (
 	[Id] ASC
@@ -40,7 +41,7 @@ GO
 
 SET IDENTITY_INSERT [dbo].[Users] ON
 INSERT INTO [dbo].[Users] ([Id], [Name], [Password], [Counter]) VALUES (1, N'Kristoffer', N'1234', 0)
-INSERT INTO [dbo].[Users] ([Id], [Name], [Password], [Counter]) VALUES (1, N'Gæst', N'1234', 0)
-INSERT INTO [dbo].[Users] ([Id], [Name], [Password], [Counter]) VALUES (1, N'Uden', N'1234', 0)
+INSERT INTO [dbo].[Users] ([Id], [Name], [Password], [Counter]) VALUES (2, N'Gæst', N'1234', 0)
+INSERT INTO [dbo].[Users] ([Id], [Name], [Password], [Counter]) VALUES (3, N'Uden', N'1234', 0)
 SET IDENTITY_INSERT [dbo].[Users] OFF
 GO
